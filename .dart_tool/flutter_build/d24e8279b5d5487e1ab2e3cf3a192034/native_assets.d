@@ -1,0 +1,1 @@
+ F:\\Flutter_necessary\\project\\book_portal\\.dart_tool\\flutter_build\\d24e8279b5d5487e1ab2e3cf3a192034\\native_assets.yaml: 
